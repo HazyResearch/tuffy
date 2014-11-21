@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tuffy/!svn/ver/1833/tuffy/trunk/test
+END
+toyquery.db
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/toyquery.db
+END
+rc1000_evidence.db
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/rc1000_evidence.db
+END
+nlearningProg.mln
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/nlearningProg.mln
+END
+nlearningEvidence.db
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/nlearningEvidence.db
+END
+testOutput.txt_lr_label1
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_lr_label1
+END
+testOutput.txt_lr_IamLR
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_lr_IamLR
+END
+testOutput.txt_lr_label2
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_lr_label2
+END
+nlearningQuery.db
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/nlearningQuery.db
+END
+ie_evidence.db
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/ie_evidence.db
+END
+toyevidence.db
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/toyevidence.db
+END
+testOutput.txt_lr_lrPred2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_lr_lrPred2
+END
+ie_prog.mln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/ie_prog.mln
+END
+toyquery2.db
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/toyquery2.db
+END
+testOutput.txt.stats
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt.stats
+END
+testOutput.txt_crf_crfPred
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_crf_crfPred
+END
+ie_query.db
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/ie_query.db
+END
+plearningevidence.db
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/plearningevidence.db
+END
+plearningprog.mln
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/plearningprog.mln
+END
+rc1000_prog.mln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/rc1000_prog.mln
+END
+toyevidence.db.gz
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/toyevidence.db.gz
+END
+rc1000_prog2.mln
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/rc1000_prog2.mln
+END
+testOutput.txt_coref_corefPred1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_coref_corefPred1
+END
+testOutput.txt_coref_corefPred2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_coref_corefPred2
+END
+testOutput.txt_coref_pcluster
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_coref_pcluster
+END
+testOutput.txt_crf_label1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_crf_label1
+END
+testOutput.txt_crf_label2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/testOutput.txt_crf_label2
+END
+plearningquery.db
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/plearningquery.db
+END
+tmp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/tmp.pl
+END
+rc1000_query.db
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/rc1000_query.db
+END
+univ_prog.mln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/univ_prog.mln
+END
+toyprog_no_close_world.mln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/toyprog_no_close_world.mln
+END
+testOutput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tuffy/!svn/ver/1833/tuffy/trunk/test/testOutput.txt
+END
+toyprog.mln
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/toyprog.mln
+END
+univ_evidence.db
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/univ_evidence.db
+END
+univ_query.db
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/test/univ_query.db
+END

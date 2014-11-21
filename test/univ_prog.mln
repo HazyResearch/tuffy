@@ -1,0 +1,33 @@
+//predicate declarations
+professor(person)
+student(person)
+advisedBy(person, person)
+*publication(title, person)
+*inPhase(person, phase)
+*hasPosition(person, position)
+
+
+1 professor(a1) v student(a1)
+1 !professor(a1) v !student(a1)
+1 student(a1) v !advisedBy(a1,a2)
+1 professor(a1) v !advisedBy(a2,a1)
+1 student(a1) v !inPhase(a1,PreQuals)
+1 student(a1) v !inPhase(a1,PostQuals)
+1 professor(a1) v !hasPosition(a1,Faculty)
+1 professor(a1) v !hasPosition(a1,Facultyemeritus)
+1 !professor(a2) v !student(a1) v advisedBy(a1,a2) v !publication(a3,a1) v !publication(a3,a2) v a1 = a2
+1 !advisedBy(a1,a2) v inPhase(a1,PreQuals) v !hasPosition(a2,Faculty)
+1 !advisedBy(a1,a2) v inPhase(a1,PostQuals) v !hasPosition(a2,Faculty)
+1 !advisedBy(a1,a2) v inPhase(a1,PreQuals) v !hasPosition(a2,Facultyemeritus)
+1 !advisedBy(a1,a2) v inPhase(a1,PostQuals) v !hasPosition(a2,Facultyemeritus)
+1 !inPhase(a1,PreQuals) v !inPhase(a1,PostQuals)
+1 inPhase(a1,PostQuals) v !inPhase(a1,PreQuals)
+1 inPhase(a1,PreQuals) v !inPhase(a1,PostQuals)
+1 inPhase(a1,PreQuals) v inPhase(a1,PostQuals)
+1 professor(a1)
+1 student(a1)
+1 advisedBy(a1,a2)
+1 publication(a1,a2)
+1 inPhase(a1,a2)
+1 hasPosition(a1,a2)
+

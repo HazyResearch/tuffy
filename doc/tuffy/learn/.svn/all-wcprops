@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn
+END
+Main.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/Main.html
+END
+DNLearner.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/DNLearner.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/package-tree.html
+END
+NaiveDNLearner.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/NaiveDNLearner.html
+END
+Learner.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/Learner.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/package-use.html
+END
+NaiveGDLearner.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/NaiveGDLearner.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/learn/package-summary.html
+END

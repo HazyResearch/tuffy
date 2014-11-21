@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer
+END
+PSQLSweepSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/PSQLSweepSAT.html
+END
+BDBStore.AtomEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.AtomEntry.html
+END
+BDBStore.BitEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.BitEntry.html
+END
+MZone.CompThread.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/MZone.CompThread.html
+END
+InferMAP.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/InferMAP.html
+END
+BDBStore.ClauseType.ClauseEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.ClauseType.ClauseEntry.html
+END
+Partition.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/Partition.html
+END
+InferDual.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/InferDual.html
+END
+InferMarginal.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/InferMarginal.html
+END
+BDBStore.AtomBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.AtomBinding.html
+END
+BDBStore.BitBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.BitBinding.html
+END
+BDBStore.ClauseType.LiteralKeyCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.ClauseType.LiteralKeyCreator.html
+END
+BDBClauseEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBClauseEntry.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/package-use.html
+END
+Component.BufferState.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/Component.BufferState.html
+END
+PSQLWalkSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/PSQLWalkSAT.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/package-summary.html
+END
+BDBStore.ClauseType.ClauseBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.ClauseType.ClauseBinding.html
+END
+Component.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/Component.html
+END
+SweepSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/SweepSAT.html
+END
+BDBSweepSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBSweepSAT.html
+END
+MZone.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/MZone.html
+END
+Main.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/Main.html
+END
+PGInfer.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/PGInfer.html
+END
+BDBStore.ClauseType.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.ClauseType.html
+END
+BDBMCSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBMCSAT.html
+END
+TestPartTradeoff.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/TestPartTradeoff.html
+END
+MCSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/MCSAT.html
+END
+Infer.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/Infer.html
+END
+PartMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/PartMap.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/package-tree.html
+END
+MRF.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/MRF.html
+END
+Stats.ClauseCostComparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/Stats.ClauseCostComparator.html
+END
+BDBAtomEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBAtomEntry.html
+END
+BDBStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBStore.html
+END
+Stats.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/Stats.html
+END
+BDBWalkSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/BDBWalkSAT.html
+END
+WalkSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/WalkSAT.html
+END
+PartInfer.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/infer/PartInfer.html
+END

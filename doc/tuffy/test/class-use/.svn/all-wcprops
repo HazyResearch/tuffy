@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use
+END
+PredicateTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/PredicateTest.html
+END
+GClauseTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/GClauseTest.html
+END
+ConfigTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/ConfigTest.html
+END
+AtomTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/AtomTest.html
+END
+LearnerTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/LearnerTest.html
+END
+ClauseTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/ClauseTest.html
+END
+LiteralTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/LiteralTest.html
+END
+ParsingLoadingTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/ParsingLoadingTest.html
+END
+TermTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/TermTest.html
+END
+GroundingTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/GroundingTest.html
+END
+TypeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/TypeTest.html
+END
+InferenceTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/InferenceTest.html
+END
+GAtomTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/GAtomTest.html
+END
+TupleTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/class-use/TupleTest.html
+END

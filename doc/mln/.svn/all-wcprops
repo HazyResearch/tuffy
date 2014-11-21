@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln
+END
+MaxWalkSAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/MaxWalkSAT.html
+END
+GClause.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/GClause.html
+END
+InferBDB.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/InferBDB.html
+END
+Atom.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Atom.html
+END
+KBMC.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/KBMC.html
+END
+Atom.PType.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Atom.PType.html
+END
+Term.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Term.html
+END
+Literal.VarClique.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Literal.VarClique.html
+END
+InferBDB.AtomEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/InferBDB.AtomEntry.html
+END
+AtomEx.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/AtomEx.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/package-summary.html
+END
+InferBDB.ClauseType.ClauseEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/InferBDB.ClauseType.ClauseEntry.html
+END
+InferBDB.AtomBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/InferBDB.AtomBinding.html
+END
+GAtom.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/GAtom.html
+END
+Function.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Function.html
+END
+Expression.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Expression.html
+END
+Predicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Predicate.html
+END
+AtomTuple.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/AtomTuple.html
+END
+LazySAT.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/LazySAT.html
+END
+AtomCutSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/AtomCutSet.html
+END
+Literal.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Literal.html
+END
+Clause.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Clause.html
+END
+InferBDB.ClauseType.ClauseBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/InferBDB.ClauseType.ClauseBinding.html
+END
+MarkovLogic.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/MarkovLogic.html
+END
+Atom.AtomType.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Atom.AtomType.html
+END
+Tuple.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Tuple.html
+END
+ClauseNormalizerTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/ClauseNormalizerTest.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/package-frame.html
+END
+InferBDB.ClauseType.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/InferBDB.ClauseType.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/package-tree.html
+END
+Predicate.FunctionalDependency.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Predicate.FunctionalDependency.html
+END
+MarkovLogicNetwork.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/MarkovLogicNetwork.html
+END
+Clause.ClauseInstance.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Clause.ClauseInstance.html
+END
+ConjunctiveQuery.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/ConjunctiveQuery.html
+END
+KBMCL.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/KBMCL.html
+END
+Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/mln/Type.html
+END

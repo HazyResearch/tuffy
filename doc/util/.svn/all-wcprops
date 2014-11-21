@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util
+END
+Timer.RunStat.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Timer.RunStat.html
+END
+Config.MCSAT_OUTPUT_TUPLE_ORDER.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Config.MCSAT_OUTPUT_TUPLE_ORDER.html
+END
+CommandOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/CommandOptions.html
+END
+IronMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/IronMan.html
+END
+MathMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/MathMan.html
+END
+SQLMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/SQLMan.html
+END
+ExceptionMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/ExceptionMan.html
+END
+BoundHashList.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/BoundHashList.html
+END
+StringMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/StringMan.html
+END
+UnionFind.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/UnionFind.html
+END
+DebugMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/DebugMan.html
+END
+Timer.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Timer.html
+END
+ProbMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/ProbMan.html
+END
+BatMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/BatMan.html
+END
+Config.CLAUSE_ASSIGNMENT_STRATEGY.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Config.CLAUSE_ASSIGNMENT_STRATEGY.html
+END
+CommandOptions.MAPInferAlgo.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/CommandOptions.MAPInferAlgo.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/package-summary.html
+END
+PlotMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/PlotMan.html
+END
+UnionFind.Record.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/UnionFind.Record.html
+END
+Config.INIT_STRATEGY.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Config.INIT_STRATEGY.html
+END
+SpiderMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/SpiderMan.html
+END
+Config.LINEAR_INFER_ORDER.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Config.LINEAR_INFER_ORDER.html
+END
+HashArray.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/HashArray.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/package-frame.html
+END
+UIMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/UIMan.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/package-tree.html
+END
+Config.PART_INFER_STRATEGY.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Config.PART_INFER_STRATEGY.html
+END
+Config.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Config.html
+END
+SuperMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/SuperMan.html
+END
+Config.test.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/Config.test.html
+END
+PlotMan.TCPair.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/PlotMan.TCPair.html
+END
+FileMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/util/FileMan.html
+END

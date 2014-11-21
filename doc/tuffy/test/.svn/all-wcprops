@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test
+END
+ConfigTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/ConfigTest.html
+END
+GroundingTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/GroundingTest.html
+END
+TypeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/TypeTest.html
+END
+InferenceTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/InferenceTest.html
+END
+GAtomTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/GAtomTest.html
+END
+PredicateTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/PredicateTest.html
+END
+GClauseTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/GClauseTest.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/package-tree.html
+END
+LearnerTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/LearnerTest.html
+END
+AtomTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/AtomTest.html
+END
+ClauseTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/ClauseTest.html
+END
+LiteralTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/LiteralTest.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/package-summary.html
+END
+ParsingLoadingTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/ParsingLoadingTest.html
+END
+TermTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/TermTest.html
+END
+TupleTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/test/TupleTest.html
+END

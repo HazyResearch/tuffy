@@ -1,0 +1,11 @@
+// Evidence & Query
+Friends(person, person)
+// Some evidence, some query
+// Query
+*mySame(person, person)
+
+// Rules
+//1  mySame(a3, a1) v mySame(a1, a3) v !Friends(a1,a2) v !Friends(a2, a3) v Friends(a1, a3)
+1  mySame(a3, a2) v mySame(a2, a3) v !Friends(a1,a2) v !Friends(a1, a3) v Friends(a2, a3)
+//1  mySame(a3, a1) v mySame(a1, a3) v !Friends(a1,a2) v !Friends(a3, a2) v Friends(a1, a3)
+//1  mySame(a3, a2) v mySame(a2, a3) v !Friends(a1,a2) v !Friends(a3, a1) v Friends(a2, a3)

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main
+END
+Main.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main/Main.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main/package-tree.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main/package-summary.html
+END
+Infer.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main/Infer.html
+END
+NonPartInfer.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main/NonPartInfer.html
+END
+PartInfer.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tuffy/!svn/ver/1567/tuffy/trunk/doc/tuffy/main/PartInfer.html
+END
